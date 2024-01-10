@@ -25,8 +25,10 @@
 ( b.) Create a file named “test” in the directory a/b/c/d ![7b](https://github.com/meenusince2004/bi0s/blob/master/screenshot24.png)
 ( c.) Stay in the home directory. Find and display the path of “test” ![7ci](https://github.com/meenusince2004/bi0s/blob/master/screenshot25i.png)
 ![7cii](https://github.com/meenusince2004/bi0s/blob/master/screenshot25ii.png)
-9. ( a.) Go to directory a. Get the man page of grep and save its contents to a file named “grepman.txt” ![9a](https://github.com/meenusince2004/bi0s/blob/master/screenshot26.png) 
-( b.) Print the lines containing the word “FILE” (Case sensitive) in the file “grepman.txt” ![9b](https://github.com/meenusince2004/bi0s/blob/master/screenshot27.png)
-10. ( a.) Go to directory a and remove the directory b with a single command ![10a](https://github.com/meenusince2004/bi0s/blob/master/screenshot28.png)
-(b.)Remove the files starting with the word "file" with a single command ![10b](https://github.com/meenusince2004/bi0s/blob/master/screenshot29.png)
-11. 
+8. ( a.) Go to directory a. Get the man page of grep and save its contents to a file named “grepman.txt” ![8a](https://github.com/meenusince2004/bi0s/blob/master/screenshot26.png) 
+( b.) Print the lines containing the word “FILE” (Case sensitive) in the file “grepman.txt” ![8b](https://github.com/meenusince2004/bi0s/blob/master/screenshot27.png)
+9. ( a.) Go to directory a and remove the directory b with a single command ![9a](https://github.com/meenusince2004/bi0s/blob/master/screenshot28.png)
+(b.)Remove the files starting with the word "file" with a single command ![9b](https://github.com/meenusince2004/bi0s/blob/master/screenshot29.png)
+10. ( a.) Go to https://blog.bi0s.in/  and download the logo.png image using wget ![10a](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot30.png)
+(b.) Do the same with python script (Hint :request library) 
+(c.) Also, display the metadata of the png.
