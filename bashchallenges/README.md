@@ -30,5 +30,7 @@
 9. ( a.) Go to directory a and remove the directory b with a single command ![9a](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot28.png)
 (b.)Remove the files starting with the word "file" with a single command ![9b](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot29.png)
 10. ( a.) Go to https://blog.bi0s.in/  and download the logo.png image using wget ![10a](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot30.png)
-(b.) Do the same with python script (Hint :request library) 
+(b.) Do the same with python script (Hint :request library)
+![10bi](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot31i.png)
+![10bii](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot31ii.png)
 (c.) Also, display the metadata of the png.
