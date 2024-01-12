@@ -34,3 +34,4 @@
 ![10bi](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot31i.png)
 ![10bii](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot31ii.png)
 (c.) Also, display the metadata of the png.
+![10c](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot32.png)
