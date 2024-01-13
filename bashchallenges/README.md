@@ -35,3 +35,17 @@
 ![10bii](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot31ii.png)
 (c.) Also, display the metadata of the png.
 ![10c](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot32.png)
+11. ( a.) Use traceroute on google.com and find list of the IP addresses and hostnames between you and  google.com 
+![11a](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot33.png)
+( b.) Find  Subdomains,ip addresses of google.com using nslookup command
+![11b](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot34.png)
+12. Start a web server on port 8080 with python command
+(In any directory and access the files in web browser )
+![12i](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot35i.png)
+![12ii](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot35ii.png)
+13. ( a.) Learn about nmap and use that scanner to scan your own machine
+( b.) Go to https://tryhackme.com/room/furthernmap and get ip address and
+Scan the ip address with (-sS,-sV,-A) in your terminal include all ports
+(Hint : start machine )
+14. ( a.) Create a chat application using nc on your local machine with one terminal as server and other as the client
+( b.) Transfer a file from server to client (save that file with another name) and display the file.
