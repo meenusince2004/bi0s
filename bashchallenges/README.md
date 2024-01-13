@@ -44,6 +44,7 @@
 ![12i](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot35i.png)
 ![12ii](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot35ii.png)
 13. ( a.) Learn about nmap and use that scanner to scan your own machine
+![13a](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot36.png)
 ( b.) Go to https://tryhackme.com/room/furthernmap and get ip address and
 Scan the ip address with (-sS,-sV,-A) in your terminal include all ports
 (Hint : start machine )
