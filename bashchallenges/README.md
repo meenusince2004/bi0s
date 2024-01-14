@@ -52,4 +52,8 @@ Scan the ip address with (-sS,-sV,-A) in your terminal include all ports
 ![13bii](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot37ii.png)
 ![13biii](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot37iii.png)
 14. ( a.) Create a chat application using nc on your local machine with one terminal as server and other as the client
+![14ai](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot38i.png)
+![14aii](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot38ii.png)
 ( b.) Transfer a file from server to client (save that file with another name) and display the file.
+![14bi](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot39i.png)
+![14bii](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot39ii.png)
