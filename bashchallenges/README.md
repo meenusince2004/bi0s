@@ -48,5 +48,8 @@
 ( b.) Go to https://tryhackme.com/room/furthernmap and get ip address and
 Scan the ip address with (-sS,-sV,-A) in your terminal include all ports
 (Hint : start machine )
+![13bi](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot37i.png)
+![13bii](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot37ii.png)
+![13biii](https://github.com/meenusince2004/bi0s/blob/master/bashchallenges/screenshot37iii.png)
 14. ( a.) Create a chat application using nc on your local machine with one terminal as server and other as the client
 ( b.) Transfer a file from server to client (save that file with another name) and display the file.
